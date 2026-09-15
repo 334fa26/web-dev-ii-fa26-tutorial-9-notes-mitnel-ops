@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "web-dev-ii-fa26"
+assignment: "tutorial-9-notes"
+owner:
+  username: "MitNel-ops"
+  id: 254720332
+  accepted_at: "2026-09-15T17:32:05Z"
+source:
+  owner: "334fa26"
+  owner_id: 299231041
+  repo: "tutorial9notes"
+  branch: "main"
